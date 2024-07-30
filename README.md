@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasr</h1>
 <h3 align="center">A passionate frontend developer from Egypt.</h3>
 
-<img align="right" alt="coding" width="350" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
+<img align="right" alt="coding" width="300" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
 
 
 - 👨‍💻 All of my projects are available at [https://a7med-nasr.github.io/Resume/resume.html](https://a7med-nasr.github.io/Resume/resume.html)
@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nasr99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nasr99" /></a></p><br><be>
 <br>
-<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med-nasr&show_icons=true&locale=en&layout=compact" alt="a7med-nasr" /></p>
+<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med-nasr&show_icons=true&locale=en&layout=compact" alt="a7med-nasr" /></p>
 
-<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=a7med-nasr&show_icons=true&locale=en" alt="a7med-nasr" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=a7med-nasr&show_icons=true&locale=en" alt="a7med-nasr" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-nasr&" alt="a7med-nasr" /></p>
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-nasr&" alt="a7med-nasr" /></p>
