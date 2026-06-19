@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ahmd.nasr11299@gmail.com**
 
-- 📄 Know about my experiences [https://a7med-nasr.github.io/Nasr-Portfolio/](https://a7med-nasr.github.io/Nasr-Portfolio/)
+- 📄 Know about my experiences [a7med-nasr-portfolio](https://a7med-nasr.github.io/Nasr-Portfolio/)
 
 - ⚡ Fun fact **"Cows moo with regional accents."**
 
