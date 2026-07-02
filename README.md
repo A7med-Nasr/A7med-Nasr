@@ -40,7 +40,7 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -50,19 +50,18 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7med-nasr&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=a7med-nasr&theme=onedark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7med-nasr&show_icons=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-nasr" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a7med-nasr&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-nasr&theme=tokyonight" />
 </p>
 
 ---
