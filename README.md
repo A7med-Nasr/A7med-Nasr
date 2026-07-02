@@ -52,14 +52,20 @@
 
 ## GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=A7med-Nasr&label=Profile%20views&color=0e75b6&style=flat" />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7med-Nasr&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a7med-nasr&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-nasr&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-nasr&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7med-nasr&theme=tokyonight" />
 </p>
 
 ---
