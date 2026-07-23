@@ -80,6 +80,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7med-nasr&theme=tokyonight" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%25"/>
+
 ## ⚡ My Tech Stack
 
 <p align="center">
