@@ -80,9 +80,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7med-nasr&theme=tokyonight" />
 </p>
 
-## 🏆 Trophies
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7med-nasr&theme=algolia&no-frame=true&row=1&column=6" />
+  <a href="https://github.com/A7med-Nasr?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-88cfa8e6b7f1.png" width="100" />
+  </a>
+  <a href="https://github.com/A7med-Nasr?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-9f7c0e6b2f7e.png" width="100" />
+  </a>
+  <a href="https://github.com/A7med-Nasr?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-4f3c1e0f1f0d.png" width="100" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/A7med-Nasr?tab=achievements">
+    <img src="https://img.shields.io/badge/🔥_View_All_GitHub_Achievements-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%25"/>
